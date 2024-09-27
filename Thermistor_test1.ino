@@ -1,5 +1,5 @@
-int a=A0;
-int b=6;
+//int a=A0;
+//int b=6;
 
 void setup() {
   Serial.begin(9600);
